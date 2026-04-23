@@ -3,7 +3,7 @@
 
 # Global Property
 title-text: ""
-desktop-image: "wp.png"
+desktop-image: "BCGRD.png"
 desktop-color: "#000000"
 terminal-box: "terminal_box_*.png"
 terminal-left: "0"
